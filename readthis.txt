@@ -1,0 +1,36 @@
+admin
+log in: admin@admin.com
+pw: 12345
+
+user log in: a@a.com
+pw: 123
+
+
+Home page gives basic information that user can put.
+http://localhost/EduPortal/admin/index.php
+
+About page gives information about website.
+http://localhost/EduPortal/admin/about.php
+
+Registration dropdown gives two options. Teacher registration option and student registration option.
+http://localhost/EduPortal/admin/addteacher.php
+http://localhost/EduPortal/admin/addstudent.php
+
+
+Faculty page shows static information about faculty.
+http://localhost/EduPortal/admin/faculty.php
+
+services page is a static page about services. 
+http://localhost/EduPortal/admin/services.php
+
+Student listing page will be visible after logging in.
+Login page is same for admin and user. 
+Student will see only his data and can edit or delete it.
+Admin will see all students list and can edit or delete anyone of students.
+
+DATABASE CONNECT
+1:To connect database with project install xampp or any php server like wampp, lampp, etc. (xampp is preffered)
+2:open "http://localhost/phpmyadmin/"
+3:create empty database with name of "edu_sys".
+4:click on import option. Browse edu_sys.sql file from project EduPortal folder.
+5:select GO and all tables and data will be imported.

@@ -1,0 +1,21 @@
+DELETE DATABASE AND IMPORT AGAIN
+active link issue- navigation--resolved
+
+display error under registration-resolved already
+
+Marital status not visible correctly- resolved already
+
+validation isssue on teacher's form- resolved already
+
+duplicate records in database of student- Resolved(FORM ID as primary id)
+duplicate records in database of Teacher- Resolved( CNIC as primary id)
+
+Not direct to any page after deleting student-resolved
+
+Marital issue- resolved
+
+validation- resolved 
+
+create button on student registeration - resolved
+
+File name doesnt appear as text on upload cv after uploading file.- to be resolved soon
